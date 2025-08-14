@@ -1,9 +1,8 @@
 #TODOS
 #1. make it so anyone can install the env to their gymnasium install :)
-#2. open-source the project
-#3. FUTURE: maybe ask a museum to make this an exhibit?
-#4. soundgen???????????
-#5. some sort of way to synthisize text for the agent's thoughts?
+#2. FUTURE: maybe ask a museum to make this an exhibit?
+#3. soundgen???????????
+#4. some sort of way to synthisize text for the agent's thoughts?
 
 debuggpuaccelwarn = False
 # SimulatingAnxietyInAnAI.py
