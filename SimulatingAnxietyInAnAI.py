@@ -20,7 +20,7 @@ import numpy as np
 import torch
 import torch.nn as nn
 import torch.optim as optim
-import random
+import random # nosec
 from collections import deque
 from tkinter import messagebox
 # ====== Custom Environment with Invigilator and Panic ======
