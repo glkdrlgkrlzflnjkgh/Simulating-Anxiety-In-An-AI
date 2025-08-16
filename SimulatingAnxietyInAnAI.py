@@ -6,7 +6,7 @@
 #5. make it a WAY more realistic?
 debuggpuaccelwarn = False
 # SimulatingAnxietyInAnAI.py
-import pickle
+
 import sys
 import tkinter as tk
 from tkinter import ttk
