@@ -65,7 +65,7 @@ class AnxiousTestEnv(gym.Env):
             stress = stress / 2.2
         else:
             stress = stress * 1.7
-        stress *= 0.5  # calming but with a higher exponenent to the curve of the calming
+        stress *= 0.8  # calming but with a lower exponenent to the curve of the calming
         if action == 1: stress += 0.1 * difficulty
         elif action == 2: stress += 0.05 * difficulty; reward -= 0.5
         elif action == 3: stress += 0.3 * difficulty; reward -= 2.0
