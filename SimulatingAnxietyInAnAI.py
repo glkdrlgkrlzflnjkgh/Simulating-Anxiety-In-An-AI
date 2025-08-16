@@ -3,7 +3,7 @@
 #2. FUTURE: maybe ask a museum to make this an exhibit?
 #3. soundgen???????????
 #4. some sort of way to synthisize text for the agent's thoughts?
-
+#5. make it a WAY more realistic?
 debuggpuaccelwarn = False
 # SimulatingAnxietyInAnAI.py
 import sys
