@@ -1,2 +1,2 @@
-# Simulating Anxiety In An AI
-A simulation
+# Simulating Anxiety in an AI  
+*A reinforcement learning experiment in emotional realism*
