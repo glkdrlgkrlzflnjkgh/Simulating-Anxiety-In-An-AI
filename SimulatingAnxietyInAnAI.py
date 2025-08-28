@@ -70,7 +70,7 @@ class AnxiousTestEnv(gym.Env):
         if action == 1: stress += 0.1 * difficulty
         elif action == 2: stress += 0.05 * difficulty; reward -= 0.5
         elif action == 3: stress += 0.3 * difficulty; reward -= 2.0
-        safe_reward = 5.8 - (1.0 - observer_distance)
+        safe_reward = observer_distance
         maxstress = (1.2 * safe_reward) / (2 * stress * difficulty / random.uniform(1.6,5.0))
         if maxstress < 3.1:
             maxstress = 3.1
