@@ -1,3 +1,40 @@
+
+
+
+
+
+[IMPORTANT]
+This repository is ABANDONED.
+I am no longer working on it.
+Further issues and PRs (if any) will be closed as not planned.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Simulating Anxiety in an AI  
 *A reinforcement learning experiment in emotional realism*
 This project simulates an AI agent navigating a high-pressure environment where stress is punished and panic ends the episode. It's a critique of how real-world systems treat neurodivergent behavior — not with empathy, but with termination logic.
